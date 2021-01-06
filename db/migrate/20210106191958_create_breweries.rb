@@ -5,7 +5,8 @@ class CreateBreweries < ActiveRecord::Migration[6.1]
       t.string :description
       t.string :address
       t.string :website
-
+      t.integer :location_id
+      
       t.timestamps
     end
   end
