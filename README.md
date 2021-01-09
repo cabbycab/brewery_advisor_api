@@ -4,7 +4,7 @@
 
 #### We bring you an api that displays information on local breweries in _several_ major cities with more to soon follow
 
-### Breweries in Austin, TX, New York, NY, and San Diego, CA
+### Breweries in Austin,TX, New York,NY, and San Diego,CA
 
 ## Technologies Used
 
@@ -12,6 +12,12 @@
 - Ruby On Rails
 - Postgresql
 - Git
+
+## Wireframe
+
+### Relationship
+
+![](images/one_to_many_relationship.png)
 
 ## Link to API
 
